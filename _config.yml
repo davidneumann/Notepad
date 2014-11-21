@@ -1,6 +1,6 @@
 title:            Personal CS
 description:      "All things CS"
-#logo:             logo.png
+logo:             logo.png
 disqus_shortname: pcs
 share:            true
 dropcap:          true
