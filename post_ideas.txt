@@ -1,0 +1,9 @@
+#Blog Post Ideas#
+##How to use PGP##
+* Go over everything that the lifehacker article covered
+* Mention that the file to kill the key should be created
+* Go over what PGP files are generated
+* Describe what needs to be kept secret, how to do it, and what can be spread everywhere
+* Mention the MIT key repo
+* Explain how to use this key from a multi computer setup
+* Explain how to use PGP on WinPhone and Android
